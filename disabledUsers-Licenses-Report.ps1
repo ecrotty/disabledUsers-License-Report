@@ -55,7 +55,7 @@ function Format-LicenseName {
         'FLOW_FREE' = 'Power Automate Free'
         'POWER_BI_STANDARD' = 'Power BI Pro'
         'POWERAPPS_DEV' = 'Power Apps Developer Plan'
-        'POWERAUTOMATE_ATTENDED_RPA' = 'Power Automate per user with attended RPA'
+        'POWERAUTOMATE_ATTENDED_RPA' = 'Power Automate Premium'
         'ENTERPRISEPACK' = 'Office 365 E3'
         'STANDARDPACK' = 'Office 365 E1'
         'ENTERPRISEPREMIUM' = 'Office 365 E5'
